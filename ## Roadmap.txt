@@ -1,0 +1,12 @@
+Bsc in data science and AI
+
+1. python
+2. Flask (html, css, jav + python)
+3. python lyb(pandas, sea, mat)----------excel, google sheets
+4. stats
+5. into ml
+6. deep learning
+7. nlp
+8. cv
+9. generative LLM
+10.
